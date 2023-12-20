@@ -4,7 +4,7 @@
 
 <p align="left">
 <a href="https://www.linkedin.com/in/thejas-n-133465222/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thejasn" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/Thejas_N_02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Thejas_N_02" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
